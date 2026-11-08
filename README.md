@@ -1,11 +1,16 @@
 1. Bahasa Pemrograman yang Digunakan
+   
 1.1 PHP 8.2+ (Backend logic, API development)
+
 1.2 JavaScript ES6+ (Frontend logic, React components)
+
 1.3 HTML5 (Struktur halaman)
+
 1.4 CSS (Styling dan layout)
+
 1.5 SQL (Query database MySQL)
 
-2. Framework, Library, API, dkk yang Digunakan
+3. Framework, Library, API, dkk yang Digunakan
 2.1 Backend (Laravel)
 Laravel 11.x - Framework PHP untuk backend
 Laravel Sanctum 4.0 - Autentikasi API dengan token
