@@ -10,7 +10,8 @@
 
 1.5 SQL (Query database MySQL)
 
-3. Framework, Library, API, dkk yang Digunakan
+2. Framework, Library, API, dkk yang Digunakan
+   
 2.1 Backend (Laravel)
 Laravel 11.x - Framework PHP untuk backend
 Laravel Sanctum 4.0 - Autentikasi API dengan token
