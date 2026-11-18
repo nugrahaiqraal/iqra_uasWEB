@@ -83,10 +83,9 @@ Flash message untuk success/error
 
 5. Kekurangan Proyek yang Dibangun (Bug/Warning)
 5.1 Belum ada payment gateway real
+   
 5.2 Belum ada email verification
+
 5.3 Belum ada export laporan transaksi
-5.4 Belum ada pagination di frontend
-5.5 Belum ada unit testing
-5.6 Belum ada multi-language
 
 Link : https://drive.google.com/file/d/1WAwrtVwpcRbaOeDa3SU7OHlo7O81BECa/view?usp=drive_link
